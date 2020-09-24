@@ -1,2 +1,3 @@
 # Email-App
- This is a small application an IT Administrator of an organization may use to generate email addressed for new employees. 
+ This is a small Email application that may be used by an IT Administrator or as an automation for Human Resources to generate email 
+ addresses for new employees. 
